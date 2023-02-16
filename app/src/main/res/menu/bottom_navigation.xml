@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/live_tab"
+        android:title="@string/live_line" />
+    <item
+        android:id="@+id/navigation_playing11"
+        android:icon="@drawable/scorecard"
+        android:title="@string/playing_xi" />
+    <item
+        android:id="@+id/navigation_odds"
+        android:icon="@drawable/match_odds"
+        android:title="@string/match_odds"
+        android:visible="true" />
+    <item
+        android:id="@+id/navigation_stats"
+        android:icon="@drawable/ic_cricket_ball_white"
+        android:title="@string/match_stats"
+        android:visible="true" />
+</menu>

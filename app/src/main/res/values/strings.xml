@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">c</string>
+    <string name="title_matches">Matches</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_result">Result</string>
+    <string name="title_news">News</string>
+    <string name="live_line">LiveLine</string>
+    <string name="playing_xi">Score Card</string>
+    <string name="match_odds">Match Odds</string>
+    <string name="match_stats">Stats</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="cricketmatchfeeds.crickettvhdscore.Fragments.LivelineFragments"
+        android:label="@string/live_line"
+        tools:layout="@layout/fragment_live_line_fever" />
+
+    <fragment
+        android:id="@+id/navigation_playing11"
+        android:name="cricketmatchfeeds.crickettvhdscore.Fragments.ScorecardFragments"
+        android:label="@string/playing_xi"
+        tools:layout="@layout/fragment_upcoming" />
+
+    <fragment
+        android:id="@+id/navigation_odds"
+        android:name="cricketmatchfeeds.crickettvhdscore.Fragments.MatchoddsFragments"
+        android:label="@string/match_odds"
+        tools:layout="@layout/fragment_result" />
+
+    <fragment
+        android:id="@+id/navigation_stats"
+        android:name="cricketmatchfeeds.crickettvhdscore.Fragments.StatsFragments"
+        android:label="@string/match_stats"
+        tools:layout="@layout/fragment_news" />
+</navigation>

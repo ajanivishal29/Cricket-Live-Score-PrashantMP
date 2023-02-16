@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#1b1a1a</color>
+    <color name="purple_500">#1b1a1a</color>
+    <color name="purple_700">#1b1a1a</color>
+    <color name="teal_200">#1b1a1a</color>
+    <color name="teal_700">#1b1a1a</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="c_yellow">#d7a75e</color>
+    <color name="c_orange">#57f3c1</color>
+    <color name="ball_red">#ceff587b</color>
+    <color name="bg_color_livblue">#46b3b8</color>
+    <color name="selected_btm">#ca3741</color>
+    <color name="trans">#10000000</color>
+    <!--<color name="itemcatcolor">#15212d</color>-->
+    <color name="itemcatcolor">#230639</color>
+    <color name="blk_tran_dark">#86000000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="ball_1">#878787</color>
+    <color name="live_box_trans">#681a1a1a</color>
+    <color name="box_yellow">#f2af32</color>
+    <color name="color_live_header_green">#61c06d</color>
+    <color name="box_red">#e94259</color>
+    <color name="color_translghtblue">#1880a3</color>
+    <color name="colorBlack">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="txt_blck">#ffffff</color>
+    <color name="themecolor">#d80e32</color>
+
+    <!--app colors-->
+    <color name="bg">#170327</color>
+
+    <color name="bg_ads_vid_img">#230639</color>
+    <color name="add_and_btn_color">#B6CAC8</color>
+    <color name="txt_color">#fff</color>
+
+</resources>
